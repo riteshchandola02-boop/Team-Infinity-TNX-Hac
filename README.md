@@ -1,19 +1,22 @@
-# AI sheild
+## Truth Lens — Smart Fake News Detection & Comparison
+Truth Lens is an AI-powered platform that helps users detect potentially fake or misleading news by analyzing claims and comparing information from multiple sources.
+ 
+## Features
+📰 Fake news detection
+🔍 News comparison
+📊 Simple result display
+🎨 User-friendly interface
 
-## AI jobs and internship scam detector
-It is a platform designed to help students and job seekers indentify potentially fake job and intership opportunity.
+## Goal
+To help users identify misleading news and make better-informed decisions.
 
-## Problem statement
-Fake jobs and internship listing can mislead students and job seekers causing financial loss, data theft, and wasted time.
-
-## Our solution
-It analyszes listings for suspicius pattern, red flags, and other scam indicator. It provide user with an easy to understand assessment to help them make safer decision.
-
-## Key features
--jobs and internships listing analysis
--suspicious listing detection
--risk assessment
--user friendly interface
+## Future Improvements
+🌐 Browser extension for real-time news checking
+🌍 Multi-language fake news detection
+🧠 Improved AI fact-checking models
+📈 Advanced credibility scoring
+📰 More news and fact-checking sources
+👤 Personalized misinformation alerts
 
 ## Team
 -Team name= Team Infinity
@@ -25,7 +28,7 @@ It analyszes listings for suspicius pattern, red flags, and other scam indicator
 ## Technology
 -HTML
 -CSS
--JAVASCRIPT
+-JAVA
  and other for future enhancement.
 
  ## Project status
